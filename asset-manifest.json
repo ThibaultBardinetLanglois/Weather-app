@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Weather-app/static/css/main.7f24a4df.chunk.css",
+    "main.js": "/Weather-app/static/js/main.8ccbdbbe.chunk.js",
+    "main.js.map": "/Weather-app/static/js/main.8ccbdbbe.chunk.js.map",
+    "runtime-main.js": "/Weather-app/static/js/runtime-main.a1149b16.js",
+    "runtime-main.js.map": "/Weather-app/static/js/runtime-main.a1149b16.js.map",
+    "static/js/2.8b548755.chunk.js": "/Weather-app/static/js/2.8b548755.chunk.js",
+    "static/js/2.8b548755.chunk.js.map": "/Weather-app/static/js/2.8b548755.chunk.js.map",
+    "static/js/3.997c557b.chunk.js": "/Weather-app/static/js/3.997c557b.chunk.js",
+    "static/js/3.997c557b.chunk.js.map": "/Weather-app/static/js/3.997c557b.chunk.js.map",
+    "index.html": "/Weather-app/index.html",
+    "static/css/main.7f24a4df.chunk.css.map": "/Weather-app/static/css/main.7f24a4df.chunk.css.map",
+    "static/js/2.8b548755.chunk.js.LICENSE.txt": "/Weather-app/static/js/2.8b548755.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Weather-app/static/media/sunny.6ab67ab6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1149b16.js",
+    "static/js/2.8b548755.chunk.js",
+    "static/css/main.7f24a4df.chunk.css",
+    "static/js/main.8ccbdbbe.chunk.js"
+  ]
+}
